@@ -1,0 +1,6 @@
+# One domain per line. Lines starting with # are ignored.
+# WHOIS is public registry data — no authorization gate is required to
+# query it (the same as running the `whois` command) — but be mindful
+# of registry rate limits when scanning many domains.
+example.com
+example.org
