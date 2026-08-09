@@ -8,7 +8,7 @@
       |____/|_____|_| \_|  |_| |___|_| \_|_____|_____|
 ```
 
-### ✦ Domain Registration & Ownership Intelligence ✦
+###  Domain Registration & Ownership Intelligence
 
 **Public WHOIS/DNS lookups only. No exploitation.**
 
