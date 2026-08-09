@@ -94,16 +94,16 @@ BOX = {
     "lt": "╠" if UNICODE_OK else "+", "rt": "╣" if UNICODE_OK else "+",
     "thin": "─" if UNICODE_OK else "-",
     "check": "✔" if UNICODE_OK else "OK", "cross": "✘" if UNICODE_OK else "X",
-    "warn": "⚠" if UNICODE_OK else "!", "spark": "✦" if UNICODE_OK else "*",
+    "warn": "⚠" if UNICODE_OK else "!", "spark": "" if UNICODE_OK else "*",
     "globe": "🌐" if UNICODE_OK else "[W]", "dot": "•" if UNICODE_OK else "*",
     "arrow": "→" if UNICODE_OK else "->", "tree": "├─" if UNICODE_OK else "|-",
     "treeend": "└─" if UNICODE_OK else "`-",
 }
 
 BANNER_ART = r"""
- ____  _______ _   _ _____ _____ _   _ _____ _
-/ ___|| ____|_| \ | |_   _|_ _| \ | | ____| |
-\___ \|  _| | .` |  | |  | ||  \| |  _| | |
+ ____  _______ _   _ _____ _____ _   _ _____
+/ ___|| ____| \  | |_   _|_ _| \ | | ____| |
+\___ \|  _| | .`  |  | |  | ||  \| |  _| | |
  ___) | |___| |\  |  | |  | || |\  | |___| |___
 |____/|_____|_| \_|  |_| |___|_| \_|_____|_____|
 """.rstrip("\n")
