@@ -10,7 +10,7 @@
 DomainSentinel — Domain Registration & Ownership Intelligence
 Made by Mindless — Founder & CEO of Linxploit
 https://linxploit.com | https://linxploit.com/founder
-2
+
 WHAT THIS TOOL DOES:
     DomainSentinel queries the public WHOIS protocol for a domain — the
     exact same public registry lookup performed by the `whois` command,
