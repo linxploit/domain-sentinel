@@ -6,7 +6,7 @@
 \\___ \\|  _| | .` |  | |  | ||  \\| |  _| | |
  ___) | |___| |\\  |  | |  | || |\\  | |___| |___
 |____/|_____|_| \\_|  |_| |___|_| \\_|_____|_____|
-
+2
 DomainSentinel — Domain Registration & Ownership Intelligence
 Made by Mindless — Founder & CEO of Linxploit
 https://linxploit.com | https://linxploit.com/founder
